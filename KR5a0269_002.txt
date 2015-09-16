@@ -1,32 +1,31 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:44:05.208867
+# -*- mode: mandoku-view -*-
 #+TITLE: 修真十書玉隆集
-#+PROPERTY: DZID  DZ0263f
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—750 六卷 洞真部方法類
+#+DATE: 2015-08-28 23:44:06
+#+PROPERTY:  LASTPB <PB KR5a0269_SJB_008-040771c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
-#+PROPERTY: LASTPB <pb:KR5a0269_SJB_002-040753c>
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: LASTPB  <md:KR5a0269_HFL_001-011b>
 #+PROPERTY: JUAN 2
-#+PROPERTY: ID KR5a0269
-<pb:KR5a0269_HFL_002-001a>¶
-修眞十書玉隆集卷之三十一　¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:KR5a0269_HFL_002-001b>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
+<md:KR5a0269_HFL_002-001a>¶<pb:KR5a0269_SJB_002-040754a>
+修眞十書玉隆集卷之三十一　¶¶¶¶¶¶¶¶¶¶<md:KR5a0269_HFL_002-001b>¶¶¶¶¶¶¶¶¶¶¶
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

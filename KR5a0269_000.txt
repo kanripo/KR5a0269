@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:44:05.176152
+# -*- mode: mandoku-view -*-
 #+TITLE: 修真十書玉隆集
-#+PROPERTY: DZID  DZ0263f
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—750 六卷 洞真部方法類
+#+DATE: 2015-08-28 23:44:06
+#+PROPERTY:  LASTPB <PB KR5a0269_SJB_008-040771c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶¶¶<md:KR5a0269_HFL_008-001b>¶¶¶¶¶¶¶¶¶¶¶
+
